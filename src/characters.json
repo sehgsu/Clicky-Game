@@ -3,72 +3,72 @@
     "id": 1,
     "image": "https://66.media.tumblr.com/ca56cbdb29f387c91f76d88f6c3fb4a2/tumblr_pr58mccHD41rcr1mmo1_250.png",
     "name": "tyrion",
-    "wasClicked": 0    
+    "clicked": 0    
   },
   {
     "id": 2,
     "image": "https://66.media.tumblr.com/860e769aeb8609feb9215bb66ad627da/tumblr_pq4hmvk5sL1u034pso2_250.gif",
     "name": "bran",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 3,
     "image": "https://multifiles.pressherald.com/uploads/sites/10/2019/04/tv-thrones-survive-98fcbd38-650b-11e9-8985-4cf30147bdca-250x250.jpg",
     "name": "brianne",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 4,
     "image": "https://66.media.tumblr.com/2d4eace7242c3a08dba73486669f0a3e/tumblr_pr58mccHD41rcr1mmo2_250.png",
     "name": "jaime",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 5,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlu4nbnSumLEwKMPezZkJwab-Ayp6YUcR2XUk7t4azsNoI_Q1YSg",
     "name": "pip",
-    "wasClicked": 0    
+    "clicked": 0    
   },
   {
     "id": 6,
     "image": "https://res.cloudinary.com/lehdnu63j/image/upload/c_fill,h_250,w_250/810.jpg_39.jpg",
     "name": "tormund",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 7,
     "image": "https://i.pinimg.com/originals/35/f6/81/35f6818647f7b791213deaa1b539df1d.png",
     "name": "daeny",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 8,
     "image": "http://media.topito.com/wp-content/uploads/2019/05/Samwell-tarly-250x250.jpg",
     "name": "sam",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 9,
     "image": "https://multifiles.pressherald.com/uploads/sites/4/2019/03/1443734_Emmy_Nominations_Drama_Se2-1024x576-250x250.jpg",
     "name": "nightking",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 10,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxUqiIq_XN2RakAsMJ3CFTxFXVnM7mAeq5fqEOmzEGCnT0Xirr9w",
     "name": "renly",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 11,
     "image": "https://i.quotev.com/img/q/u/16/7/15/Jon-.jpg",
     "name": "jon",
-    "wasClicked": 0
+    "clicked": 0
   },
   {
     "id": 12,
     "image": "https://images.lifeposts.com/iQr2fpo33kMifg2i0Ll8OgnM3qA=/250x250/smart/https://media.lifeposts.com/site_media/media/image/3c155cf1-7d1d-4c6e-81b5-ac5961416a22.jpg",
     "name": "theon",
-    "wasClicked": 0
+    "clicked": 0
   }
 ]
