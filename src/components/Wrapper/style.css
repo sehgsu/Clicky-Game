@@ -1,6 +1,7 @@
 .wrapper {
   padding-top: 50px;
-  background: #ECEFF1;
+  background-image: url("https://ae01.alicdn.com/kf/HTB1UkOsa.vrK1RjSszfq6xJNVXa6/Iron-Throne-Game-dark-photo-backdrop-Vinyl-cloth-High-quality-Computer-print-wall-photo-studio-background.jpg_640x640.jpg");
+  /* background: #ECEFF1; */
   height: 100%;
   display: flex;
   flex-flow: row wrap;

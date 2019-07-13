@@ -2,9 +2,9 @@ import React from "react";
 import "./style.css";
 
 const Header = props => (
-    <div className = "header">
+    <div className = "header justify-content-center">
         <div className ="title">{props.children}</div>
-        <div className="scoreboard">
+        <div className="scores">
             Highscore: {props.highscore} Score: {props.score}
         </div>
     </div>

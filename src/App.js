@@ -47,7 +47,7 @@ class App extends React.Component {
   render() {
     return (
       <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}>Memory Click Game</Header>
+        <Header score={this.state.score} highscore={this.state.highscore}>GOT Click Game</Header>
         {this.state.characters.map(character => (
           <Card
             handleCount = {this.handleCount}
