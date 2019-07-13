@@ -52,6 +52,7 @@ class App extends React.Component {
         <Header score={this.state.score} highscore={this.state.highscore}>Memory Click Game</Header>
         {this.state.characters.map(character => (
           <Card
+            handleCount = {this.handleCount}
             id={character.id}
             key={character.id}
             image={character.image}/>
